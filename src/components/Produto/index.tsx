@@ -17,7 +17,7 @@ const ProdutoComponent = ({
   produto,
   aoComprar,
   favoritar,
-  estaNosFavoritos
+  estaNosFavoritos,
 }: Props) => {
   return (
     <S.Produto>
